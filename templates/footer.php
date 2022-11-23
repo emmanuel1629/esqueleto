@@ -34,5 +34,5 @@
     <p>Todos los derechos reservados</p>
 </div>
 </body>
-<script src="javascriptPrincipal.js"></script>
+<script src="../javascript/modalUser.js"></script>
 </html>

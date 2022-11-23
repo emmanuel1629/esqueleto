@@ -1,11 +1,11 @@
-<h1>Arreglá la conexión</h1>
+<h1>Agregar GRID Y LAYOUT</h1>
 
         <section>
             <table>
                 <thead>
                     <tr>
-                        <td>Perro</td>
-                        <td>Sapo</td>
+                        <td>Por Favor</td>
+                        <td>Perro Hijueputa </td>
                     </th>
                 </thead>
                 <tbody>
@@ -19,16 +19,16 @@
 
         <form action="">
 
-                <input type="text"  name="nombre" id="nombre" placeholder="escribe aqui tu nombre">
+                <input type="text"  name="txtnombre" id="txtnombre" placeholder="escribe aqui tu nombre">
                 <br>
 
-                <input type="text" name="apellido" id="apellido" placeholder="escribe aqui apellido">
+                <input type="text" name="txtapellido" id="txtapellido" placeholder="escribe aqui apellido">
                 <br>
 
-                <input type="text" name="ficha" id="ficha" placeholder="escribe aqui ficha">
+                <input type="text" name="txtficha" id="txtficha" placeholder="escribe aqui ficha">
                 <br>
 
-                <button id="fuckYou">
+                <button id="btnSendaPutonga">
                     Chanda Hijueputa
                 </button>
             </form>
